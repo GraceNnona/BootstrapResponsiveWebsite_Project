@@ -1,0 +1,43 @@
+.hero {
+    content: '';
+    background-image: url(assets/RestaurantMenu_img4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    top:  0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px ;
+}
+.title {
+    font-size: 150px;
+    font-weight: 4000px;
+    text-align: center;
+    color: white;
+    text-decoration: solid;
+    padding-top: 200px;
+  }
+
+body {
+    background-color: rgb(245, 245, 213);
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    height: 140vh;
+    align-content: space-around;
+    padding-left: -2000px;
+}
